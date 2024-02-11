@@ -1,7 +1,7 @@
 completed app.
 
 feature1: added a create username feature.
-
+		-> added register username feature.
 feature2: added a read username feature in tabular way.
 
 feature3: added a update username feature.
